@@ -85,6 +85,11 @@ h2 {
   line-height: 60px;
 }
 
+/* input:placeholder-shown label {
+  position: absolute;
+  top: -600px;
+} */
+
 img {
   width: 20px;
   height: 22px;
